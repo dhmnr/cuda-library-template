@@ -144,4 +144,4 @@ Project Link: [https://github.com/dhmnr/cuda-library-template](https://github.co
 [issues-shield]: https://img.shields.io/github/issues/dhmnr/cuda-library-template.svg
 [issues-url]: https://github.com/dhmnr/cuda-library-template/issues
 [license-shield]: https://img.shields.io/github/license/dhmnr/cuda-library-template.svg
-[license-url]: https://github.com/dhmnr/cuda-library-template/blob/master/LICENSE
+[license-url]: https://github.com/dhmnr/cuda-library-template/blob/main/LICENSE
