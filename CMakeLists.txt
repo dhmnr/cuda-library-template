@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.17)
-project(cuda_starter CXX CUDA)
+project(cuda_starter C CXX CUDA)
 
 # Set the C++ standard
 set(CMAKE_CXX_STANDARD 11)
@@ -12,8 +12,9 @@ set(CMAKE_CUDA_ARCHITECTURES 75)
 
 # Add subdirectories
 add_subdirectory(src)
+add_subdirectory(tests)
+
 
 # TODO:
 # add_subdirectory(examples)
-# add_subdirectory(tests)
 # add_subdirectory(benchmark)
